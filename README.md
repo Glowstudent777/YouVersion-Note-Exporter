@@ -1,1 +1,3 @@
-# YouVersion-Note-Exporter
+# YouVersion Note Exporter
+
+Utility to export notes from YouVersion.
